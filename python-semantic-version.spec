@@ -1,7 +1,7 @@
 # Created by pyp2rpm-1.1.1
 %global pypi_name semantic_version
 
-Name:           python-%{pypi_name}
+Name:           python-semantic-version
 Version:        2.3.1
 Release:        1%{?dist}
 Summary:        A library implementing the 'SemVer' scheme
